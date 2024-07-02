@@ -1,0 +1,31 @@
+button{
+    columns: rgb(168, 183, 124);background-color: rgb(9, 92, 66);
+}
+.sss{
+    width: 50rem;height: 30rem;background-color: rgb(178, 209, 215);
+}
+body{ justify-content: center;
+    background-color: rgba(41, 32, 102, 0.603);
+}
+.new{
+
+    margin-top: 20px;
+    color: brown;
+    
+
+}
+.alok{
+    font-size: 30px; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 50px; width: 300px;
+    border-radius: 3px;
+}
+.alok1{
+    font-size: 32px; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 50px; width: 200px;
+    transition: background-color 0.3s ease;
+    border-radius: 3px;
+    
+}
+.alok1:hover{
+    background-color: rgb(0, 81, 255);
+}
